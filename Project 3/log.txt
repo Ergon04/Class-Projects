@@ -1,0 +1,8 @@
+You will create a simple banking system that handles various account operations while gracefully managing errors and unusual circumstances. This assignment emphasizes making your program robust through proper exception handling.
+
+Learning Outcomes
+Enhance Program Robustness: Learn how to improve the robustness of a program by designing it to handle unusual circumstances and erroneous input gracefully, ensuring it does not crash during unexpected scenarios.
+Understand Exceptions: Deepen your understanding of the difference between checked and unchecked exceptions, and gain practical experience in both throwing and catching exceptions of each kind.
+Work with ArrayList: Gain additional practice using ArrayList in Java.
+Test Exception Handling: Strengthen your testing skills by writing tests that specifically verify whether exceptions are thrown under prescribed circumstances and ensure they are handled appropriately
+
