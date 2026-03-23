@@ -1,0 +1,19 @@
+The much-anticipated Dino Park is preparing for its grand opening. The park will feature a variety of Dinosaurs in addition to other attractions, and the owner has truly spared no expense!  Which is why they have recruited the CS 300 class to design their park safety system.
+
+You will create a system that checks for safety violations in the park's various attractions and dinosaur habitats. Your system will demonstrate OOP and polymorphism through use of inheritance, abstract classes, and interfaces.
+
+Learning Goals
+By completing this assignment, you will:
+
+Design and implement instantiable classes to encapsulate state and behavior.
+
+Practice implementing an interface that defines common class behavior.
+
+Practice extending an abstract class, including overriding abstract methods.
+
+Compare and contrast interfaces and abstract classes, and observe how each can be used.
+
+Implement exception handling by raising, propagating, and catching exceptions, and by communicating error states clearly through meaningful messages.
+
+Construct unit tests to validate method behavior, including methods that may throw exceptions.
+
