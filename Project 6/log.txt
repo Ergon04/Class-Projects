@@ -1,0 +1,20 @@
+Overview
+Unfortunately, there's been an escape at Dino Park! It's now your job to make sure visitors are safe by staffing research field stations across the park. You have a budget to hire researchers, and each researcher can effectively monitor different combinations of field stations. Your goal is to deploy researchers strategically to maximize monitoring coverage and keep more guests safe.
+
+In this assignment, you will implement recursive algorithms to solve different variants of this dinosaur monitoring optimization problem:
+
+Greedy Monitoring: Maximize the number of research stations covered with a limited number of researchers
+Optimal Monitoring: Exhaustively find the best deployment to maximize station coverage with a hiring limit
+Cost-Aware Monitoring: Minimize total researcher budget while meeting minimum station coverage requirements
+This assignment requires careful thinking about recursive problem decomposition, algorithm design, and the trade-offs between computational efficiency and solution optimality.
+
+Learning Objectives
+After completing this assignment, you should be able to:
+
+Formulate recursive solutions by identifying base cases, recursive cases, and subproblem decomposition
+Implement recursive solutions by making recursive calls and combining results
+Compare recursive formulations of related problems
+Explain why recursion is a useful problem-solving tool
+Develop comprehensive unit tests including manual tests and fuzz tests
+Use reference implementations as validation tools
+
